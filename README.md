@@ -18,5 +18,4 @@ node scraper_traveloka.js
 
 ## License
 
-MIT -- see [LICENSE](LICENSE)](# Dalang Surfer example Projects
-Examples of Scraping using Nodejs Puppeteer
+MIT -- see [LICENSE](LICENSE)]
