@@ -18,4 +18,4 @@ node scraper_traveloka.js
 
 ## License
 
-MIT -- see [LICENSE](LICENSE)]
+MIT -- see [LICENSE](LICENSE)
