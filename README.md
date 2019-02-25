@@ -1,4 +1,4 @@
-[# Dalang Surfer example Projects
+# Dalang Surfer example Projects
 Examples of Scraping using Nodejs Puppeteer
 
 ## Installing Project
